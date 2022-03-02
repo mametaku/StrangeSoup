@@ -1,5 +1,5 @@
 enableFlag: true
 disabledWorlds:
-  - writehere
+  - writehereyourwantdisableworld
 flyTime: 100
 coolDownTime: 300
