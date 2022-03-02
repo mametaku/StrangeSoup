@@ -1,0 +1,5 @@
+enableFlag: true
+disabledWorlds:
+  - test
+flyTime: 100
+coolDownTime: 300

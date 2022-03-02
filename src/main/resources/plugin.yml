@@ -1,0 +1,6 @@
+name: StrangeSoup
+version: '${project.version}'
+main: net.mametaku.strangesoup.StrangeSoup
+api-version: 1.18
+commands:
+  strangesoup:
